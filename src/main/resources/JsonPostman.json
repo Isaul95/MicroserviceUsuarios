@@ -1,0 +1,131 @@
+{
+  "categoryId": "71",
+  "direccion": "Iguala",
+  "divisionId": "2",
+  "status": "A",
+
+  "attendees": [
+    {
+      "deleted": "false",
+      "email": "null",
+      "modified": "true",
+      "searchText": "ADRIAN CARE LOPEZ",
+      "userComplete": "ADRIAN CARE LOPEZ",
+      "idUsuario": "1",
+      "selectedItem": {
+        "attempts": "0",
+        "email": "null",
+        "id": "1",
+        "lastUpdate": "2020-07-08",
+        "role": "null",
+        "useId": "vn0hph5",
+        "userDescription": "fWqArfsewTREAfTrGTuushUDY184+DJSH¿SNDJDH+AqahdhAStreDGhjkOiU",
+        "userDescriptionReal": "ADRIAN CARE LOPEZ",
+        "userName": "alopez.s06293",
+        "userStatus": "I",
+        "userType": "null"
+      }
+    }
+  ],
+
+
+  "buyers": [
+    {
+      "deleted": "false",
+      "email": "vn56i82@gmail.com",
+      "modified": "true",
+      "searchText": "FABIAN ALEJANDRO SOTO",
+      "userComplete": "FABIAN ALEJANDRO SOTO",
+      "idUsuario": "2",
+      "selectedItem": {
+        "attempts": "0",
+        "email": "vn56i82@gmail.com",
+        "id": "1",
+        "lastUpdate": "2023-10-31",
+        "role": "null",
+        "useId": "vn56i82",
+        "userDescription": "fWW/QEsrwqsewTREAfTrGTuushUDY184+DJSH¿SNDJDH+AqahdhAStreDGhjkOiU",
+        "userDescriptionReal": "FABIAN ALEJANDRO SOTO",
+        "userName": "vn56i82",
+        "userStatus": "A",
+        "userType": "null"
+      }
+    }
+  ],
+
+
+  "directors": [
+    {
+      "deleted": "false",
+      "email": "null",
+      "modified": "true",
+      "searchText": "MARIO FRANCISCO MELENDEZ GARCIA",
+      "userComplete": "MARIO FRANCISCO MELENDEZ GARCIA",
+      "idUsuario": "3",
+      "selectedItem": {
+        "attempts": "0",
+        "email": "null",
+        "id": "3",
+        "lastUpdate": "2019-10-31",
+        "role": "null",
+        "useId": "mrher12",
+        "userDescription": "W/QE0234ghwqsewTREAfTrGTuushUDY184+DJSH¿SNDJDH+AqahdhAStreDGhjkOiU",
+        "userDescriptionReal": "MARIO FRANCISCO MELENDEZ GARCIA",
+        "userName": "mmelen.s04992",
+        "userStatus": "I",
+        "userType": "null"
+      }
+    }
+  ],
+
+
+  "dmms": [
+    {
+      "deleted": "false",
+      "email": "null",
+      "modified": "true",
+      "searchText": "MICAELA RODRIGUEZ FLORES",
+      "userComplete": "MICAELA RODRIGUEZ FLORES",
+      "idUsuario": "4",
+      "selectedItem": {
+        "attempts": "0",
+        "email": "null",
+        "id": "4",
+        "lastUpdate": "2019-05-06",
+        "role": "null",
+        "useId": "mrher12",
+        "userDescription": "220234gh/+wqsewTREAfTrGTuushUDY184+DJSH¿SNDJDH+AqahdhAStreDGhjkOiU",
+        "userDescriptionReal": "MICAELA RODRIGUEZ FLORES",
+        "userName": "mrodrig.s04938",
+        "userStatus": "I",
+        "userType": "null"
+      }
+    }
+  ],
+
+
+  "refillers": [
+    {
+      "deleted": "false",
+      "email": "vn56i83@gmail.com",
+      "modified": "true",
+      "searchText": "ISAUL HERNANDEZ",
+      "userComplete": "ISAUL HERNANDEZ",
+      "idUsuario": "5",
+      "selectedItem": {
+        "attempts": "0",
+        "email": "vn56i83@gmail.com",
+        "id": "4",
+        "lastUpdate": "2023-10-23",
+        "role": "null",
+        "useId": "vn56i83",
+        "userDescription": "5====AqahdhAStreDGhjkOiU",
+        "userDescriptionReal": "ISAUL HERNANDEZ",
+        "userName": "vn56i83",
+        "userStatus": "A",
+        "userType": "null"
+      }
+    }
+  ]
+
+}
